@@ -1,0 +1,32 @@
+Accessing time – 
+    O(1) - because of continuous location 
+
+Search time -  
+    O(n) - sequential search  
+    O(log n) - binary search (if sorted) 
+
+Insertion time – 
+    O(n)  
+
+Deletion time – 
+    O(n) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 

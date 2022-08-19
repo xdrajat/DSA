@@ -1,0 +1,32 @@
+DSA – data structure and algorithm 
+Used for processing, retrieving , sorting 
+To reduce space and time complexity 
+
+Classification - https://www.geeksforgeeks.org/what-is-data-structure-types-classifications-and-applications/
+
+Classification of Data Structure 
+Linear Data 
+struc t 
+Static Data 
+Stru re 
+O ata Structure 
+Non r Data 
+Dynamic Data 
+Graph 
+Struc re 
+Linked list 
+
+Linear data structure – in sequence, one after another  
+Non-linear data structure – non sequential 
+
+Static data structure – fixed memory size 
+Dynamic data structure – memory size is not fix 
+
+Array – in continuous memory location 
+Queue – follows FIFO 
+Stack – follows LIFO 
+Linked list – non continuous memory location, linked by pointers 
+Tree – herarchical, linked by nodes 
+Graph – linked by nodes and edges  
+
+ 

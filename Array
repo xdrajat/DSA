@@ -1,29 +1,40 @@
-Accessing time – 
-    O(1) - because of continuous location 
+1. Complexity -  
+
+Accessing time – O(1) - because of continuous location 
 
 Search time -  
-    O(n) - sequential search  
-    O(log n) - binary search (if sorted) 
 
-Insertion time – 
-    O(n)  
+O(n) - sequential search  
 
-Deletion time – 
-    O(n) 
+O(log n) - binary search (if sorted) 
 
- 
+Insertion time – O(n)  
+
+Deletion time – O(n) 
 
  
 
  
 
+2. int arr[] = {1,2,3,4,5,7}; 
+
  
+
+3. length of array   
+
+int n = sizeof(arr) / sizeof(arr[0]); 
 
  
 
  
 
- 
+4. print array 
+
+for(int i=0;i<n;i++){ 
+
+        cout<<arr[i]<<endl; 
+
+    } 
 
  
 

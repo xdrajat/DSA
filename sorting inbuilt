@@ -1,0 +1,21 @@
+Sort an array containing N integer  -
+
+ 
+
+Sort(arr, arr+n); 
+
+ 
+
+ 
+
+Sort a vector containing N integer  -
+
+ 
+
+Sort(arr.begin(), arr.end()); 
+
+ 
+
+ 
+
+ 
